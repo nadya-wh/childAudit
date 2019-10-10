@@ -1,6 +1,3 @@
-/**
- * Created by napo on 10/10/19.
- */
 ({
     loadRelations: function(component, recordId) {
 		var action = component.get("c.getChildRelations");

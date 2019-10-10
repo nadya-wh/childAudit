@@ -1,7 +1,3 @@
-<!--
- - Created by napo on 10/10/19.
- -->
-
 <aura:component description="childAuditor" implements="flexipage:availableForRecordHome,force:hasRecordId"
 				controller="ChildAuditController">
 	<aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
